@@ -1,31 +1,31 @@
 [
     {
         "id_producto": 1,
-        "codigo": "1111",
-        "nombre": "asdasd",
+        "codigo": "111",
+        "nombre": "suelas calzado",
         "categoria": "CAUCHO NATURAL",
-        "precio": 111.0,
-        "stock": 50,
+        "precio": 115.0,
+        "stock": 1000,
         "descripcion": "",
         "estado": "ACTIVO"
     },
     {
         "id_producto": 2,
-        "codigo": "1122",
-        "nombre": "asdasdddasda",
-        "categoria": "CAUCHO NATURAL",
-        "precio": 1111.0,
-        "stock": 222,
+        "codigo": "122",
+        "nombre": "Evatec,
+        "categoria": "CAUCHO SINTETICO",
+        "precio": 115.0,
+        "stock": 1000,
         "descripcion": "",
         "estado": "ACTIVO"
     },
     {
         "id_producto": 3,
-        "codigo": "11666",
-        "nombre": "sdfsf",
-        "categoria": "CAUCHO SINTÉTICO",
-        "precio": 222.0,
-        "stock": 33,
+        "codigo": "133",
+        "nombre": "Basicos",
+        "categoria": "PIGMENTOS",
+        "precio": 225.0,
+        "stock": 1000,
         "estado": "ACTIVO"
     }
 ]
